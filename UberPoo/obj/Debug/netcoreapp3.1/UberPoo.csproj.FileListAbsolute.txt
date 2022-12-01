@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\bin\Debug\netcoreapp3.1\UberPoo.exe
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\bin\Debug\netcoreapp3.1\UberPoo.deps.json
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\bin\Debug\netcoreapp3.1\UberPoo.runtimeconfig.json
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\bin\Debug\netcoreapp3.1\UberPoo.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\bin\Debug\netcoreapp3.1\UberPoo.dll
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\bin\Debug\netcoreapp3.1\UberPoo.pdb
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\obj\Debug\netcoreapp3.1\UberPoo.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\obj\Debug\netcoreapp3.1\UberPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\obj\Debug\netcoreapp3.1\UberPoo.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\obj\Debug\netcoreapp3.1\UberPoo.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\obj\Debug\netcoreapp3.1\UberPoo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\obj\Debug\netcoreapp3.1\UberPoo.dll
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\obj\Debug\netcoreapp3.1\UberPoo.pdb
+C:\Users\ASUS\source\repos\UberPoo\UberPoo\obj\Debug\netcoreapp3.1\UberPoo.genruntimeconfig.cache
