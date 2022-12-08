@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 
 namespace UberPoo
@@ -13,6 +14,15 @@ namespace UberPoo
         {
             this.brand = brand;
             this.model = model;
+        }
+
+        public override void PrintDataCar()
+        {
+            base.PrintDataCar();
+            if (passenger != 0)
+            {
+                Console.WriteLine($"Marca : {brand} Modelo: {model}");
+            }
         }
     }
 }

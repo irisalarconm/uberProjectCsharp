@@ -15,5 +15,20 @@ namespace UberPoo
             this.typeCarAccepted = typeCarAccepted;
             this.seatsMaterial = seatsMaterial;
         }
+        public UberBlack(string license, Account driver) : base(license, driver)
+        {
+
+        }
+        public virtual void setPassenger(int passenger)
+        {
+            if (passenger == 6)
+            {
+                this.passenger = passenger;
+            }
+            else
+            {
+                Console.WriteLine("Necesitas asignar 6 pasajeros");
+            }
+        }
     }
 }

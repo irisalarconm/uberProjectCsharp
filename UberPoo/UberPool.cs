@@ -14,5 +14,14 @@ namespace UberPoo
             this.brand = brand;
             this.model = model;
         }
+
+        public override void PrintDataCar()
+        {
+            base.PrintDataCar();
+            if (passenger != 0)
+            {
+                Console.WriteLine($"Marca : {brand} Modelo: {model}");
+            }
+        }
     }
 }
